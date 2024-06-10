@@ -1,1 +1,3 @@
 rootProject.name = 'effective-java'
+
+include ('common', 'code', 'external')
